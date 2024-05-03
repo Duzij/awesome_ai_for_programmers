@@ -1,4 +1,4 @@
-# Замечательный ИИ для программистов
+# Amazing AI for Programmers
 
 In this repository, we gather all the most interesting information on the application of AI in software development.
 
